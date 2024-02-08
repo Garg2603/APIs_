@@ -1,4 +1,4 @@
-#First API using Flask
+#Methods: GET,PUT,POST,DELETE
 
 from flask import Flask,request,jsonify
 
